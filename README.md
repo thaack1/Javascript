@@ -1,5 +1,4 @@
 # prog_fund_final
-Final project for Programming Fundamentals
     A program that asks the user for 3 full names (first and last), as well as 3 numbers for each full name.
       All numbers must be between 85 and 99 - if a number is outside this range, the user is prompted to re-enter until all numbers are accepted.
     The program then processes a function for each full name to calculate a weighted average score using the inputted numbers for each name.
