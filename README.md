@@ -1,4 +1,5 @@
-    A program that asks the user for 3 full names (first and last), as well as 3 numbers for each full name.
+#The below details a final project using html and javascript.
+    Create a program that asks the user for 3 full names (first and last), as well as 3 numbers for each full name.
       All numbers must be between 85 and 99 - if a number is outside this range, the user is prompted to re-enter until all numbers are accepted.
     The program then processes a function for each full name to calculate a weighted average score using the inputted numbers for each name.
     The weighted average score is determined by multiplying the first number (IQ) by 2, the second (Accuracy) by 1.75, and the third (Power) by 1.5;
